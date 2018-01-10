@@ -1,0 +1,33 @@
+**Bonjour et bienvenue sur ce blog traitant de la réalité virtuelle. Aujourd'hui nous allons poser la question suivante: La réalité virtuelle peut-elle révolutionner nos gestes de la vie quotidienne ?**
+**Pour celà, nous allons tout d'abord parler du fonctionnement de cette technologie aujourd'hui, ensuite nous énumérerons les risques et limites que présentent cette technologie. Enfin, nous nous pencherons sur les utilisations actuelles et futures de la réalité virtuelle ainsi que les solutions aux limitations**
+
+# Le fonctionnement
+
+Nous avons acheté un casque dit "Cardboard" de réalité virtuelle. Il s'agit d'un casque très peu cher (5€) réalisé en carton où on place notre téléphone au fond.
+
+![cardboard google]
+
+## I - Rôle des lentilles
+
+Le casque est seulement composé de carton qui sert à faire tenir le téléphone en place et à masquer la lumière extérieure, à l'exception des lentilles.
+
+Ces lentilles sont convergentes, mais à quoi peuvent-elles donc servir ?
+Pour répondre à cette question, nous allons réaliser quelques expériences.
+
+### Compte rendu expérimental
+
+**Problématique** : à quoi servent les lentilles dans le casque Cardboard ?
+
+Tout d'abord une lentille peut produire deux type d'images : soit elle produit une image réelle, soit une image virtuelle. Dans le cas d'une image réelle, tous les rayons d'un point A de l'objet concourent à un point A' de l'autre côté de la lentille. L'image formée est renversée. Dans le cas d'une image virtuelle, la lentille agit comme une loupe : en se plaçant de l'autre côté de la lentille, on peut voir l'objet plus gros à travers la loupe qu'il ne l'est.
+
+Pour savoir si l'image est réelle ou virtuelle, nous allons mesurer la distance entre la lentille et les yeux, ainsi que la distance focale image. La distance focale image est la distance de l'image lorsque des rayons proviennent "de l'infini", c'est à dire lorsque les rayons sont parallèles.
+
+![schema lentille]
+La distance OF' est la distance focale image.
+
+
+image réelle ou virtuelle http://www.educonline.net/spip/spip.php?article258
+
+[cardboard google]: https://images-na.ssl-images-amazon.com/images/I/61ua2kFAleL._SX425_.jpg
+[utilisation casque]: https://lh5.googleusercontent.com/Soe-ubUV0EeQEZYApE0ivymJhqFJZmoh2UleG0lRTegWq3xvQCCdLDmlYT6fFYYXL-P1NDr9Ilnes57WiWQ_vWp2U6CSVasDppKR8XX_EJc8J9ckRbTzweZ5VOYubsh34gbfevBh
+[schema lentille]: https://lh6.googleusercontent.com/SvH47AoUO8jSvid-lqjNMs2SDZAZ3ypJyO0aYNSXVZ64D4dU68vip_WHdMPHwAwSnC9ejnaro2txiPElXTuYdEbWmhMvYqYSdNL5In2-N5lywLbw60ix-_e2sNw5Noj1DB2kIQN
