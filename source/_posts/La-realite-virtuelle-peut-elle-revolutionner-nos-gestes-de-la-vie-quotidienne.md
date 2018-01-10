@@ -9,7 +9,7 @@ tags: quotidien
 La réalité virtuelle peut paraître comme la technologie révolutionnaire du 21ième siècle, mais qu'en est-il de son véritable impact sur notre vie ?
 Pourquoi cette technologie n'est-elle toujours d'usage dans tous nos foyers ?
 
-<!-- source -->
+<!-- more -->
 
 **Bonjour et bienvenue sur ce blog traitant de la réalité virtuelle. Aujourd'hui nous allons poser la question suivante: La réalité virtuelle peut-elle révolutionner nos gestes de la vie quotidienne ?**
 **Pour celà, nous allons tout d'abord parler du fonctionnement de cette technologie aujourd'hui, ensuite nous énumérerons les risques et limites que présentent cette technologie. Enfin, nous nous pencherons sur les utilisations actuelles et futures de la réalité virtuelle ainsi que les solutions aux limitations**
